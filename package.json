@@ -1,0 +1,14 @@
+{
+    "name": "kirby-tiptap-layouts",
+    "type": "module",
+    "scripts": {
+        "dev": "kirbyup serve src/index.js",
+        "build": "kirbyup src/index.js"
+    },
+    "devDependencies": {
+        "kirbyup": "^4.0.0-beta.1"
+    },
+    "dependencies": {
+        "@tiptap/vue-3": "^3.33.1"
+    }
+}
